@@ -4,6 +4,7 @@
     1. [differences 501 vs 601](https://www.comptia.org/blog/comptia-security-501-vs-601), [comptia.org](www.comptia.org)
   * Jobs
   * Study
+    1. [beginner guide](https://www.ceos3c.com/hacking/getting-started-cyber-security-complete-guide/), [www.ceos3c.com](www.ceos3c.com)
   * Training
     1. [corelan-training.com](https://www.corelan-training.com/)
   * Certs
